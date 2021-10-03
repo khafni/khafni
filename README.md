@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am khalil, a student at 1337 programming school (42 network).
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/khafni?darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
 
