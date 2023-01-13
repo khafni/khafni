@@ -1,5 +1,8 @@
 ### Hi there 👋
 I am khalil, a student at 1337 programming school (42 network).
+
+# 🏫school
+[![khafni's 42 stats](https://badge.mediaplus.ma/darkblue/khafni)](https://github.com/oakoudad/badge42)
 <!--
 **khafni/khafni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
