@@ -31,8 +31,3 @@ I'm Khalil, a passionate software engineer with experience in Java, Node.js, and
 
 Explore my GitHub repositories to see some of the cool projects I've worked on!
 
-## 📊 My GitHub Stats
-
-[![khafni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khafni&count_private=true&show_icons=true&theme=dark)](https://github.com/khafni)
-
-Thanks for stopping by! Let's build amazing things together. 😄
