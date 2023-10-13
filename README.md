@@ -24,7 +24,7 @@ I'm Khalil, a passionate software engineer with experience in Java, Node.js, and
 
 - 👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/khalilhafni)
 
-- 📧 Shoot me an email at [youremail@example.com](mailto:hafnixwork@gmail.com)
+- 📧 Shoot me an email at [hafnixwork@gmail.com](mailto:hafnixwork@gmail.com)
 
 
 ## 🌟 Check Out My Projects
