@@ -1,19 +1,38 @@
-### Hi there 👋
-I am khalil, a student at 1337 programming school (42 network).
+# Hello, World! 👋
 
-# 🏫school
-[![khafni's 42 stats](https://badge.mediaplus.ma/darkblue/khafni)](https://github.com/oakoudad/badge42)
-<!--
-**khafni/khafni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Khalil, a passionate software engineer with experience in Java, Node.js, and Angular. I started my journey as a student at 1337 programming school (part of the 42 network) and have since evolved into a professional developer.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 I'm currently working as a Software Engineer at CGI, a leading consulting firm, where I'm actively involved in developing cutting-edge solutions using Java, Node.js, and Angular.
+
+- 🎓 I have a strong educational foundation from my time at 1337 programming school, where I honed my problem-solving and programming skills.
+
+- 🌱 I'm always eager to learn and stay updated with the latest trends and technologies in the software development world.
+
+## 🛠️ Technologies I Work With
+
+- **Java:** I have experience building robust backend applications using Java and the Spring framework.
+
+- **Node.js:** I love creating server-side applications and APIs with Node.js with different frameworks.
+
+- **Angular:** I'm proficient in developing dynamic web applications with Angular.
+
+- **Git:** Version control is my best friend.
+
+## 📫 Get In Touch
+
+- 👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/khalilhafni)
+
+- 📧 Shoot me an email at [youremail@example.com](mailto:hafnixwork@gmail.com)
+
+
+## 🌟 Check Out My Projects
+
+Explore my GitHub repositories to see some of the cool projects I've worked on!
+
+## 📊 My GitHub Stats
+
+[![khafni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khafni&count_private=true&show_icons=true&theme=dark)](https://github.com/khafni)
+
+Thanks for stopping by! Let's build amazing things together. 😄
