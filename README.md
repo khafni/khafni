@@ -4,7 +4,7 @@ I'm Khalil, a passionate software engineer with experience in Java, Node.js, and
 
 ## 🚀 About Me
 
-- 💼 I'm currently working as a Software Engineer at CGI, a leading consulting firm, where I'm actively involved in developing cutting-edge solutions using Java, Node.js, and Angular.
+- 💼 I'm currently working as a Software Engineer at CGI, a leading IT consulting firm, where I'm actively involved in developing cutting-edge solutions using Java, Node.js, and Angular.
 
 - 🎓 I have a strong educational foundation from my time at 1337 programming school, where I honed my problem-solving and programming skills.
 
